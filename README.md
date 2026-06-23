@@ -1,4 +1,4 @@
-﻿# GoStack Nivel 02 Inicializando Back End
+# GoStack Nivel 02 Inicializando Back End
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
 
@@ -10,11 +10,11 @@
 
 ## Como rodar
 
-### PrÃ©-requisitos
+### Pré-requisitos
 
 - Node.js 18+ e npm
 
-### InstalaÃ§Ã£o
+### Instalação
 
 ```bash
 git clone https://github.com/salomaocalheiros/GoStack--Nivel-02---Inicializando-Back-End.git
@@ -22,7 +22,7 @@ cd GoStack--Nivel-02---Inicializando-Back-End
 npm install
 ```
 
-### ExecuÃ§Ã£o
+### Execução
 
 ```bash
 npm start
@@ -49,15 +49,16 @@ GoStack--Nivel-02---Inicializando-Back-End/
 ├── ormconfig.json
 ├── package.json
 ├── package-lock.json
+├── README.md
 ├── tsconfig.json
 ├── yarn.lock
 └── yarn-error.log
 ```
 
-## ContribuiÃ§Ã£o
+## Contribuição
 
-ContribuiÃ§Ãµes sÃ£o bem-vindas. Abra uma issue ou envie um pull request.
+Contribuições são bem-vindas. Abra uma issue ou envie um pull request.
 
 ---
 
-**Autor:** [SalomÃ£o Calheiros](https://github.com/salomaocalheiros)
+**Autor:** [Salomão Calheiros](https://github.com/salomaocalheiros)
